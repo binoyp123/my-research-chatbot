@@ -1,0 +1,1 @@
+c_ 0500 camber 0000 mpath 0 ibios 1 l_ 1000 phit_ 45000 phib 90000 a 0000 beta_ 15000 f_ 50000 gmax_ 45000 p 5000 rtoff 0000 tau 0000 u_ 100000 v_ 0000 m 35 n 101 t_ 0020 d_ 3414 c 0146 v_ 341421 u 0293 q 1000 delta 0002 nstep 465 dt 0004 air speed 1000e02 flappingair speed ratio 3414e00 pitchflapping speed ratio 1278e01 pitchair speed ratio 4363e01

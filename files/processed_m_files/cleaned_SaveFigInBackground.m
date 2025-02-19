@@ -1,0 +1,1 @@
+function SaveFigInBackground (figNumber, figLocation, closeOrNot)
